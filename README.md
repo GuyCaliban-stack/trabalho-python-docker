@@ -1,3 +1,3 @@
 Author: Guilherme Henrique de Souza Araújo
 
-Exercícios 18 ao 29 feitos em Python e aplicações em execução no Docker.
+Exercícios 18 ao 29 feitos em Python e aplicações em execução no Docker. + Exercícios 3a e 3b
